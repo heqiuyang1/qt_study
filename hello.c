@@ -4,7 +4,7 @@ int main()
 {
 	printf("hello!");
 
-	print("this is newline branch");
+	print("this is master branch");
 	return 0;
 
 }
